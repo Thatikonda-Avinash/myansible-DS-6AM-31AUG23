@@ -1,0 +1,15 @@
+---
+- mystudents:
+   - name: anil
+     phno: 998877566
+     address:
+        drno: 123
+        street: hyd
+        pincode: 556604
+
+   - name: sunil
+     phno: 776654355
+     address:
+        drno: 345
+        street: gdk
+        pincode: 505210       
